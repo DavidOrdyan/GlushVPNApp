@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "mandatory": true,
   "minSupportedVersionCode": 1,
   "apkUrl": "https://raw.githubusercontent.com/DavidOrdyan/GlushVPNApp/main/v1-GlushVPN.apk",
