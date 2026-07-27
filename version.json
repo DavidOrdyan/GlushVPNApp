@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "mandatory": false,
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/DavidOrdyan/GlushVPNApp/releases/download/v1.0.0/GlushVPN.apk",
+  "notes": "Первый релиз GlushVPN."
+}
